@@ -1,5 +1,5 @@
 ---
-title: Color Bristol Board
+title: Duplex Board
 date: 2022-01-05 11:30:00
 author: rachel
 img: /medias/product/duplex/img.png
